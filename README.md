@@ -73,3 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 https://www.figma.com/design/UtiurQgr5yH1ClbLzDqVHl/2802---React%3A-Praticando-React-com-Js?node-id=12-2
 https://my-json-server.typicode.com/
 https://my-json-server.typicode.com/DiogoSaimon/react-alura-cinetag-api
+https://react-alura-cinetag.vercel.app/
